@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#header{
+    height: 86px;
+    width: 795px;
+}
+.nav{
+    background-image: url(/main\ logo.png);
+    background-size: cover;
+    height: 80px;
+    width:100% ;
+}
+.navlogo{
+display: flex ;
+
+background-size: cover;
+    height: 80px;
+    width: 100px;
+}
